@@ -1,1 +1,1 @@
-include: ["_expo", "_sitemap"]
+include: ["_expo","_sitemap","_expo/static/js/web/__common-1e0fe6e1e3eb1fd12447563241a20249.js","_expo/static/js/web/__expo-metro-runtime-1f8f5d3ca6b7f58204d51e14506d73fb.js","_expo/static/js/web/_layout-23af4fb273e0226879b453ce7a8178d8.js","_expo/static/js/web/_layout-a3700a78c1a481895433b9b764f83eb7.js"]
