@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Grady",
+  "short_name": "Grady",
+  "lang": "ru",
+  "description": "Английский для аналитиков и ML-специалистов",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#FAF7F0",
+  "background_color": "#FAF7F0",
+  "icons": [
+    { "src": "icons/grady-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/grady-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
