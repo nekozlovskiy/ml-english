@@ -1,9 +1,7 @@
 # Grady
 
-Профессиональный английский для аналитиков данных и ML-специалистов. 78 коротких уроков, словарь, карточки для повторения и подготовка к собеседованиям.
+Английский для аналитиков данных и ML-специалистов. [Открыть Grady](https://nekozlovskiy.github.io/ml-english/).
 
-[Открыть Grady](https://nekozlovskiy.github.io/ml-english/)
-
-В разделе [«Практика для аналитиков»](https://nekozlovskiy.github.io/ml-english/unit/unit_analytics/) три урока по рабочему английскому для SQL, дашбордов и A/B-тестов.
+[Практика для аналитиков](https://nekozlovskiy.github.io/ml-english/unit/unit_analytics/) включает SQL, дашборды, A/B-тесты и кейс о снижении конверсии.
 
 На iPhone откройте сайт в Safari и добавьте его на экран «Домой» через меню «Поделиться».
